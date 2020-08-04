@@ -25,7 +25,7 @@
 
 <th>Build With</th>
 
-<td>[PHP Programming Language](https://www.php.net/) With [Codeigniter 3 Framework](https://codeigniter.com/)</td>
+<td> [PHP Programming Language](https://www.php.net/) With [Codeigniter 3 Framework](https://codeigniter.com/) </td>
 
 </tr>
 
@@ -34,9 +34,11 @@
 <th>And Also With</th>
 
 <td>
-> Template : **[AdminLTE3](https://adminlte.io/)**  
-> Infinite Scroll : **[Jscroll](https://jscroll.com/)**  
-> PDF Viewer : **[PdfJS](https://mozilla.github.io/pdf.js/)**
+
+* Template : [AdminLTE3](https://adminlte.io/)  
+* Infinite Scroll : [Jscroll](https://jscroll.com/)
+* PDF Viewer : [PdfJS](https://mozilla.github.io/pdf.js/)
+
 </td>
 
 </tr>
@@ -124,7 +126,7 @@ or you can install Xampp To get All Installation Requirement
 
 <th>Github</th>
 
-<td>**[rahmat1996](https://github.com/rahmat1996)**</td>
+<td> [rahmat1996](https://github.com/rahmat1996) </td>
 
 </tr>
 
@@ -132,7 +134,7 @@ or you can install Xampp To get All Installation Requirement
 
 <th>Linkedin</th>
 
-<td>**[Rahmat Saja](https://id.linkedin.com/in/rahmat-saja-35371513b)**</td>
+<td> [Rahmat Saja](https://id.linkedin.com/in/rahmat-saja-35371513b) </td>
 
 </tr>
 
