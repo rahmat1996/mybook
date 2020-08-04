@@ -1,0 +1,47 @@
+.DS_Store
+
+application/cache/*
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
+
+!application/*/.htaccess
+
+composer.lock
+
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+/vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/
+
+
+# MyBook Project
+
+application/controllers/Test.php
+application/controllers/Welcome.php
+!directory/.gitkeep
+directory/*
+user_guide/
+assets/adminlte/build/
+assets/adminlte/docs/
+assets/adminlte/pages/
+assets/adminlte/index.html
+assets/adminlte/index2.html
+assets/adminlte/index3.html
+assets/adminlte/starter.html
