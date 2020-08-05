@@ -15,6 +15,8 @@ class Home_model extends CI_Model
 			$this->db->like('book_title', $search);
 		}
 
+		$this->db->order_by('book_id','desc');
+
 		return $this->db->get('book', $number, $offset)->result();
 	}
 
