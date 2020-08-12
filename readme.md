@@ -142,16 +142,6 @@ or you can install Xampp To get All Installation Requirement
 
 <tr>
 
-<th>Linkedin</th>
-
-<td>
-
-[Rahmat Saja](https://id.linkedin.com/in/rahmat-saja-35371513b)
-
-</td>
-
-</tr>
-
 <tr>
 
 <th>Paypal</th>
