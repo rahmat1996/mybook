@@ -152,4 +152,17 @@ or you can install Xampp To get All Installation Requirement
 
 </tr>
 
+<tr>
+
+<th>Paypal</th>
+
+<td>
+
+[rahmatbatam14](https://paypal.me/rahmatbatam14?locale.x=id_ID)
+
+</td>
+
+</tr>
+
+
 </tbody>
