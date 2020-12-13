@@ -58,3 +58,5 @@ $route['translate_uri_dashes'] = FALSE;
 $route["file/download/(:num)"] = "home/download/$1";
 
 $route['file/show/(:num)/(:any)'] = "directory/$1/$2";
+
+$route['syncbook'] = "SyncController";
